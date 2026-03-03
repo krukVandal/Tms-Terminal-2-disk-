@@ -45,9 +45,11 @@
 
  <img width="1254" height="796" alt="image" src="https://github.com/user-attachments/assets/42fd6dd2-fc2d-476e-afbe-0b66b9b83a78" />
 
- 5. Собрал группу reserved, создал физический затем логический том с имене test
+ 5. Для оставшегося тома sdc1 cобрал группу reserved,
+
+    создал физический затем логический том с имене test
     
-    и смонтировал полученный образ в папку /opt/tests предварительно созданную.
+    и смонтировал полученный том в папку /opt/tests предварительно созданную.
 
  <img width="1146" height="785" alt="image" src="https://github.com/user-attachments/assets/ebd9a12f-a36f-4ad3-a7d7-fbee85c170db" />
 
